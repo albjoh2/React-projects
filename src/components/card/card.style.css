@@ -1,0 +1,38 @@
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #bbb;
+  cursor: pointer;
+  padding: 20px;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+  height: 400px;
+}
+
+.card-container:hover {
+  box-shadow: 5px 5px 15px #999;
+  transform: scale(1.05);
+}
+
+.card-container:active {
+  transform: rotateY(90deg);
+}
+
+.card-title {
+  margin-top: 15px;
+}
+h2 {
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: -0.2px;
+  margin-bottom: 10px;
+}
+
+.card-awardyear {
+  font-size: 20px;
+  margin-top: auto;
+  margin-bottom: 20px;
+}

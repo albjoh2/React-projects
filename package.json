@@ -2,6 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://api.nobelprize.org/2.1/nobelPrizes?sort=asc&nobelPrizeCategory=phy&format=json&csvLang=se",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
