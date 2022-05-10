@@ -6,7 +6,9 @@ const Card = ({ winner }) => {
   return (
     <div className="card-container" key={awardYear}>
       <img
-        src={`https://robohash.org/${awardYear - 1900}?size=180x180`}
+        width={200}
+        height={200}
+        src={require(`./bilder/bild${awardYear - 1900}.svg`)}
         alt={`winner ${awardYear}`}
       />
       <div className="card-title" key={awardYear}>

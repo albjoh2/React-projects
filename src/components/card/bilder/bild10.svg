@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="200mm"
+   version="1.1"
+   viewBox="0 0 200 200"
+   id="svg38"
+   sodipodi:docname="bild10.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.67601042"
+     inkscape:cx="377.95276"
+     inkscape:cy="522.1813"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg38" />
+  <text
+     transform="scale(.26458)"
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="26.667px"
+     style="line-height:1.25;shape-inside:url(#rect23417);white-space:pre"
+     xml:space="preserve"
+     id="text2" />
+  <text
+     transform="scale(.26458)"
+     fill="#000000"
+     font-family="sans-serif"
+     font-size="29.333px"
+     style="line-height:1.15;shape-inside:url(#rect28713);white-space:pre"
+     xml:space="preserve"
+     id="text4" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="-1.199"
+     cy="98.875"
+     rx="15.338"
+     ry="14.922"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse6" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="8.5393"
+     cy="76.258"
+     rx="2.1911"
+     ry="2.0984"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse8" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="34.346"
+     cy="110.53"
+     rx="21.668"
+     ry="15.855"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse10" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="29.72"
+     cy="122.19"
+     rx="11.686"
+     ry="6.5284"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse12" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="-8.0159"
+     cy="112.63"
+     rx="9.008"
+     ry="7.2279"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse14" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="13.895"
+     cy="121.72"
+     rx="19.72"
+     ry="16.787"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse16" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="31.181"
+     cy="97.476"
+     rx="25.32"
+     ry="25.647"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse18" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="52.605"
+     cy="112.16"
+     rx="20.451"
+     ry="13.29"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse20" />
+  <ellipse
+     transform="matrix(.83765 -.54621 .68279 .73062 0 0)"
+     cx="40.189"
+     cy="134.78"
+     rx="27.024"
+     ry="20.984"
+     fill="#ccc"
+     stroke-opacity="0"
+     id="ellipse22" />
+  <path
+     d="m43.95 158.63c0.53074 25.805 31.025 13.945 57.797 12.086 26.772-1.8597 44.32 12.441 53.183-6.0161 8.8626-18.457-5.7301-21.456-25.341-18.958-19.611 2.4979-34.953-12.739-60.7-8.0986-25.746 4.6401-24.939 20.987-24.939 20.987z"
+     fill="#0085ff"
+     stroke-opacity="0"
+     id="path24" />
+  <text
+     transform="matrix(0.25949,0,0,0.25949,56.567358,107.97864)"
+     fill="#0000ff"
+     font-family="sans-serif"
+     font-size="40px"
+     letter-spacing="0px"
+     style="line-height:1.25;white-space:pre;shape-inside:url(#rect46094)"
+     xml:space="preserve"
+     id="text36"><tspan
+       x="0"
+       y="0"
+       id="tspan67"><tspan
+         style="font-size:46.888px"
+         id="tspan65">+      -       = 
+</tspan></tspan><tspan
+       x="0"
+       y="58.610001"
+       id="tspan71"><tspan
+   style="font-size:46.888px"
+   id="tspan69">   %    x        /</tspan>
+</tspan><tspan
+       x="0"
+       y="110.93587"
+       id="tspan73">                          </tspan></text>
+</svg>

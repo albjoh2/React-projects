@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200mm" height="200mm" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="26.667px" style="line-height:1.25;shape-inside:url(#rect23417);white-space:pre" xml:space="preserve"/>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="29.333px" style="line-height:1.15;shape-inside:url(#rect28713);white-space:pre" xml:space="preserve"/>
+<rect x="35.836" y="52.176" width="129.14" height="98.779" stroke-opacity="0"/>
+<path d="m99.946 109v28.769z" fill="#008000" stroke="#29b900" stroke-width="1.0966"/>
+<rect x="38.143" y="61.421" width="122.55" height="80.315" fill="#0f0" stroke-opacity="0"/>
+<path d="m87.128 95.758-32.878-23.426z" fill="#008000" stroke="#cdff9a" stroke-width="1.165"/>
+<path d="m109.73 95.758 24.659-20.96z" fill="#008000" stroke="#cdff9a" stroke-width="1.165"/>
+<path d="m98.583 74.176-21.661 29.054 23.243 29.781 21.26-29.846z" fill="#0ff" stroke="#000" stroke-width=".33066px"/>
+<path d="m88.85 109.73-32.878 20.757z" fill="#008000" stroke="#cdff9a" stroke-width="1.0966"/>
+<path d="m111.45 109.73 24.659 18.572z" fill="#008000" stroke="#cdff9a" stroke-width="1.0966"/>
+<path d="m121.43 103.16-14.722 0.79141-15.254-0.0789-14.527-0.64749 23.243 29.781z" fill="#009696" stroke="#000" stroke-width=".33066px"/>
+<path d="m98.753 96.58v-32.467z" fill="#008000" stroke="#cdff9a" stroke-width="1.165"/>
+<path d="m98.583 74.176 8.1201 29.781-6.5373 29.054-8.7163-29.185z" fill="#fff" stroke="#000" stroke-width=".33066px"/>
+<path d="m100.48 109-0.15589 29.636z" fill="#008000" stroke="#cdff9a" stroke-width="1.165"/>
+<path d="m91.45 103.83 15.254 0.13009-6.5373 29.054-8.7163-29.185 15.254 0.13009-6.5373 29.054" fill="#04ffff" stroke="#000" stroke-width=".33066px"/>
+</svg>

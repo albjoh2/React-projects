@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200mm" height="200mm" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="e" x1="142.67" x2="62.633" y1="116.29" y2="107.72" gradientTransform="translate(-.52917)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#000080" offset="0"/>
+<stop stop-color="#000080" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="d" x1="137.32" x2="57.283" y1="96.168" y2="87.598" gradientTransform="translate(-.52917)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#000080" offset="0"/>
+<stop stop-color="#000080" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="c" x1="125.83" x2="52.253" y1="79.336" y2="66.325" gradientTransform="translate(-.52917)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#000080" offset="0"/>
+<stop stop-color="#000080" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="b" x1="154.6" x2="158.09" y1="61.609" y2="239.46" gradientTransform="translate(-.52917)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#999" offset="0"/>
+<stop stop-color="#999" stop-opacity="0" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="19.761" x2="18.018" y1="68.583" y2="262.71" gradientTransform="translate(-.52917)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#999" offset="0"/>
+<stop stop-color="#999" stop-opacity="0" offset="1"/>
+</linearGradient>
+</defs>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="26.667px" style="line-height:1.25;shape-inside:url(#rect23417);white-space:pre" xml:space="preserve"/>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="29.333px" style="line-height:1.15;shape-inside:url(#rect28713);white-space:pre" xml:space="preserve"/>
+<rect x="27.417" y="57.965" width="147.95" height="72.804" fill="url(#b)" stroke-opacity="0"/>
+<ellipse cx="25.97" cy="94.367" rx="15.206" ry="36.402" fill="url(#a)" stroke-opacity="0"/>
+<ellipse cx="176.78" cy="94.175" rx="15.206" ry="36.402" fill="#808080" stroke-opacity="0"/>
+<rect x="62.104" y="107.72" width="84.802" height="13.72" fill="url(#e)" stroke-opacity="0"/>
+<circle cx="146.52" cy="114.6" r="6.9524" fill="#00f" stroke-opacity="0"/>
+<rect x="142.15" y="113.2" width="8.6519" height="3.09" fill="#fff" stroke-opacity="0"/>
+<rect x="56.754" y="87.598" width="84.802" height="13.72" fill="url(#d)" stroke-opacity="0"/>
+<circle cx="141.17" cy="94.469" r="6.9524" fill="#00f" stroke-opacity="0"/>
+<rect x="136.8" y="93.078" width="8.6519" height="3.09" fill="#fff" stroke-opacity="0"/>
+<rect x="51.724" y="66.325" width="84.802" height="13.72" fill="url(#c)" stroke-opacity="0"/>
+<circle cx="136.14" cy="73.195" r="6.9524" fill="#00f" stroke-opacity="0"/>
+<rect x="131.77" y="71.805" width="8.6519" height="3.09" fill="#fff" stroke-opacity="0"/>
+<rect x="17.579" y="90.61" width="17.238" height="8.2547" fill="#f9f9f9" stroke-opacity="0"/>
+<rect x="168.8" y="90.628" width="16.71" height="8.2196" fill="#fff" stroke-opacity="0"/>
+<rect transform="matrix(-.0045474 .99999 -.99996 -.0086258 0 0)" x="81.804" y="-180.57" width="23.015" height="5.9681" fill="#fff" stroke-opacity="0"/>
+</svg>

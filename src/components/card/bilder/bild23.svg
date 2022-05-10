@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200mm"
+   height="200mm"
+   version="1.1"
+   viewBox="0 0 200 200"
+   id="svg12"
+   sodipodi:docname="bild23.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1892">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop1888" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="1"
+         id="stop1890" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient254">
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1;"
+         offset="0"
+         id="stop250" />
+      <stop
+         style="stop-color:#008000;stop-opacity:1"
+         offset="1"
+         id="stop252" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient254"
+       id="linearGradient256"
+       x1="39.138943"
+       y1="102.15264"
+       x2="153.03326"
+       y2="100.58708"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99999772,0,0,0.99999997,5.0881468,29.745598)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1892"
+       id="linearGradient1894"
+       x1="45.401173"
+       y1="55.185909"
+       x2="50.097847"
+       y2="52.446182"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1892"
+       id="linearGradient2212"
+       gradientUnits="userSpaceOnUse"
+       x1="45.401173"
+       y1="55.185909"
+       x2="50.097847"
+       y2="52.446182"
+       gradientTransform="rotate(54.215385,101.2026,160.78821)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.33800521"
+     inkscape:cx="402.36066"
+     inkscape:cy="465.96915"
+     inkscape:window-width="843"
+     inkscape:window-height="688"
+     inkscape:window-x="627"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <ellipse
+     style="fill:url(#linearGradient256);fill-opacity:1;stroke:none;stroke-width:1.765"
+     id="path120"
+     cx="101.36974"
+     cy="130.33267"
+     rx="57.925499"
+     ry="57.925632" />
+  <path
+     style="fill:url(#linearGradient2212);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+     d="m 165.95221,26.512466 -28.42372,66.32285 -0.60598,7.191384 5.2944,-6.711114 28.10621,-66.093986 z"
+     id="path1541-3"
+     sodipodi:nodetypes="cccccc" />
+  <rect
+     style="fill:#0000ff;stroke:none;stroke-width:1.765"
+     id="rect1982-3"
+     width="13.30724"
+     height="42.661446"
+     x="158.42473"
+     y="-85.500076"
+     transform="rotate(24.514473)" />
+  <rect
+     style="fill:#ffffff;stroke:none;stroke-width:1.765"
+     id="rect1426"
+     width="86.497063"
+     height="22.309198"
+     x="57.534248"
+     y="119.76516" />
+  <path
+     style="fill:url(#linearGradient1894);stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0;fill-opacity:1"
+     d="M 30.136986,29.745596 67.318982,91.585125 72.798434,96.2818 70.450098,88.062622 33.268102,26.614482 Z"
+     id="path1541"
+     sodipodi:nodetypes="cccccc" />
+  <rect
+     style="fill:#ff0000;stroke:none;stroke-width:1.765"
+     id="rect1982"
+     width="13.30724"
+     height="42.661446"
+     x="7.8709683"
+     y="0.0045711971"
+     transform="rotate(-29.700912)" />
+</svg>

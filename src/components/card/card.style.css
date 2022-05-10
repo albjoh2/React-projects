@@ -10,6 +10,7 @@
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
   height: 400px;
+  align-items: center;
 }
 
 .card-container:hover {
@@ -18,7 +19,7 @@
 }
 
 .card-container:active {
-  transform: rotateY(90deg);
+  transform: rotateY(189deg);
 }
 
 .card-title {

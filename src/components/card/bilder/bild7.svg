@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200mm" height="200mm" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="b" x1="115.05" x2="108.15" y1="66.199" y2="66.239" gradientTransform="matrix(2.6446 0 0 1.6933 -202.71 -9.6515)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#e6e6d6" offset="0"/>
+<stop stop-color="#808080" offset="1"/>
+</linearGradient>
+<linearGradient id="a" x1="155.77" x2="155.18" y1="86.02" y2="123.87" gradientTransform="matrix(1.0008 0 0 .65607 -6.479 36.014)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ff0" offset="0"/>
+<stop stop-color="#ff7e00" offset="1"/>
+</linearGradient>
+</defs>
+<path d="m14.966 143.52s-0.51955-18.395 6.1816-19.337c7.8096-1.0974 5.3156 20.697 13.136 19.677 8.2519-1.0755-0.16408-22.459 8.0758-23.623 7.9002-1.1161 5.9002 21.231 13.714 19.618 7.5609-1.5611-2.871-21.017 4.6668-22.686 7.0395-1.5591 5.738 18.223 12.897 17.365 6.4-0.76727 7.5336-17.81 7.5336-17.81" fill="none" stroke="#ff7a00" stroke-width="3.965"/>
+<path d="m12.377 97.693s4.8398-17.755 11.526-16.712c7.7921 1.2156-0.91773 21.349 6.8618 22.642 8.209 1.3649 6.359-21.54 14.582-20.264 7.8842 1.224-0.51336 22.03 7.4324 22.753 7.6886 0.6997 3.3501-20.946 11.048-20.356 7.189 0.5503 0.09941 20.079 7.304 20.36 6.7618 0.26387 8.3234-18.516 8.3234-18.516" fill="none" stroke="#ffc200" stroke-width="3.965"/>
+<path d="m12.079 55.687s7.7542-16.689 14.17-14.538c7.4771 2.5076-4.4917 20.891 2.9599 23.473 7.863 2.7247 9.8878-20.166 17.78-17.526 7.5664 2.5313-4.2075 21.63 3.5038 23.678 7.4618 1.9816 6.8218-20.085 14.311-18.211 6.9944 1.7504-3.2756 19.81 3.7793 21.297 6.6214 1.3962 4.5906-17.602 11.316-16.854 2.9607 0.32895 3.2314 8.332 3.2314 8.332" fill="none" stroke="#ff0" stroke-width="3.965"/>
+<rect x="119.74" y="92.068" width="72.128" height="17.541" fill="url(#a)" stroke-opacity="0"/>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="26.667px" style="line-height:1.25;shape-inside:url(#rect23417);white-space:pre" xml:space="preserve"/>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="29.333px" style="line-height:1.15;shape-inside:url(#rect28713);white-space:pre" xml:space="preserve"/>
+<ellipse cx="100.09" cy="99.097" rx="23.056" ry="55.604" fill="url(#b)" stroke-opacity="0"/>
+</svg>

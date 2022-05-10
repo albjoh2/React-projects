@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200mm" height="200mm" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="a" x1="-13.828" x2="201.84" y1="53.492" y2="53.492" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00f" offset="0"/>
+<stop stop-color="#f00" offset="1"/>
+</linearGradient>
+</defs>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="26.667px" style="line-height:1.25;shape-inside:url(#rect23417);white-space:pre" xml:space="preserve"/>
+<text transform="scale(.26458)" fill="#000000" font-family="sans-serif" font-size="29.333px" style="line-height:1.15;shape-inside:url(#rect28713);white-space:pre" xml:space="preserve"/>
+<ellipse cx="96.508" cy="38.204" rx="22.617" ry="22.958" fill="#ccc" stroke-opacity="0"/>
+<rect x="83.142" y="119.2" width="14.368" height="69.164" fill="#ccc" stroke-opacity="0"/>
+<rect x="96.273" y="119.44" width="14.368" height="69.164" fill="#ccc" stroke-opacity="0"/>
+<rect x="81.18" y="67.865" width="31.672" height="67.94" fill="#ccc" stroke-opacity="0"/>
+<ellipse cx="96.991" cy="67.992" rx="15.839" ry="10.805" fill="#ccc"/>
+<rect x="73.92" y="38.221" width="4.1098" height="22.193" fill="#ccc"/>
+<rect x="113.84" y="36.577" width="6.5757" height="3.6988" fill="#ccc"/>
+<path d="m200.86 45.619c0 18.083-19.727 15.617-19.316 0.41098 0.41098-15.206-19.316-14.384-18.905 2.4659s-21.371 17.261-20.96-3.2878c0.41098-20.549-25.443-34.052-25.07 3.6988 0.1911 19.326-30.936 18.905-31.702-10.685-0.76554-29.591-46.267-53.859-46.795 3.6988-0.41098 44.797-47.674 39.043-47.263-11.096 0.41098-50.14-23.426 6.5757-23.426 6.5757" fill="none" stroke="url(#a)" stroke-width="1.965"/>
+</svg>
