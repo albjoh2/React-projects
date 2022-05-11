@@ -9,39 +9,35 @@ const Card = ({ winner }) => {
   return (
     <div className="card">
       <div className="card-content">
-        <div className="card-container-back" key={awardYear}>
-          <div className="card-title" key={awardYear}>
+        <div className="card-container-back">
+          <div className="card-title">
             {laureates ? (
               laureates.map((person) => {
-                console.log(person);
                 if (motivation === "") {
                   motivationToPrint = person.motivation.en;
                   motivation = person.motivation.en;
                   return (
-                    <div>
-                      <h2 className="back-name-title" key={person.knownName.en}>
-                        {person.knownName.en}
-                      </h2>
+                    <div key={person.knownName.en}>
+                      <h2 className="back-name-title">{person.knownName.en}</h2>
                     </div>
                   );
                 }
                 if (motivation === person.motivation.en) {
                   motivation = person.motivation.en;
                   return (
-                    <div>
-                      <h2 className="back-name-title" key={person.knownName.en}>
-                        & <br></br> {person.knownName.en}
+                    <div key={person.knownName.en}>
+                      <h2 className="back-name-title">
+                        <p className="and">&</p>
+                        {person.knownName.en}
                       </h2>
                     </div>
                   );
                 } else {
                   motivation = person.motivation.en;
                   return (
-                    <div>
-                      <p key={motivation}>{motivationToPrint}</p>
-                      <h2 className="back-name-title" key={person.knownName.en}>
-                        {person.knownName.en}
-                      </h2>
+                    <div key={person.knownName.en}>
+                      <p>{motivationToPrint}</p>
+                      <h2 className="back-name-title">{person.knownName.en}</h2>
                     </div>
                   );
                 }
@@ -49,10 +45,10 @@ const Card = ({ winner }) => {
             ) : (
               <h2 key={awardYear}>No prize was awarded</h2>
             )}
-            <p key={motivation}>{motivation}</p>
+            <p>{motivation}</p>
           </div>
         </div>
-        <div className="card-container-front" key={awardYear + 10000}>
+        <div className="card-container-front">
           <img
             width={200}
             height={200}
@@ -60,7 +56,7 @@ const Card = ({ winner }) => {
             alt={`winner ${awardYear}`}
           />
           {/* <div className="img-underline"></div> */}
-          <div className="card-title" key={awardYear}>
+          <div className="card-title">
             {laureates ? (
               laureates.map((person) => (
                 <h2 className="front-name-title" key={person.knownName.en}>
@@ -68,7 +64,7 @@ const Card = ({ winner }) => {
                 </h2>
               ))
             ) : (
-              <h2 className="front-name-title" key={awardYear}>
+              <h2 key={awardYear} className="front-name-title">
                 No prize was awarded
               </h2>
             )}
