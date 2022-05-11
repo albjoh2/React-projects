@@ -1,5 +1,5 @@
 {
-  "name": "monsters-rolodex",
+  "name": "nobel-prize-winners-physics",
   "version": "0.1.0",
   "private": true,
   "proxy": "https://api.nobelprize.org/2.1/nobelPrizes?sort=asc&nobelPrizeCategory=phy&format=json&csvLang=se",

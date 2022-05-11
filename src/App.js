@@ -35,7 +35,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="title">Nobel award winners in physics</h1>
+      <h1 className="title">THE NOBEL PRIZE IN PHYSICS</h1>
 
       <SearchBox
         onChangeHandler={onSearchChange}

@@ -2,30 +2,31 @@
   width: 85vw;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 20px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
   margin-bottom: 20px;
 }
 
 @media only screen and (max-width: 1200px) {
   .card-list {
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 30px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
     max-width: 900px;
   }
 }
 
-@media only screen and (max-width: 890px) {
+@media only screen and (max-width: 960px) {
   .card-list {
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 40px;
-    max-width: 600px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 15px;
+    max-width: 700px;
   }
 }
 
-@media only screen and (max-width: 580px) {
+@media only screen and (max-width: 800px) {
   .card-list {
-    grid-template-columns: 1fr;
-    max-width: 300px;
+    grid-template-columns: 1fr 1fr;
+    max-width: 450px;
+    grid-gap: 20px;
   }
 }

@@ -1,39 +1,88 @@
-.card-container {
+.card {
   display: flex;
   flex-direction: column;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 5px 5px 5px #bbb;
-  cursor: pointer;
-  padding: 20px;
-  backface-visibility: hidden;
-  transform: translateZ(0);
-  transition: transform 0.25s ease-out;
-  height: 400px;
+}
+
+.card-content {
+  text-align: center;
   align-items: center;
+  position: relative;
+  transition: transform 1s;
+  background-color: rgb(255, 255, 250);
+  transform-style: preserve-3d;
+  height: 300px;
+  border-radius: 3px;
 }
 
-.card-container:hover {
-  box-shadow: 5px 5px 15px #999;
-  transform: scale(1.05);
+.card:hover .card-content {
+  transform: rotateY(0.5turn);
 }
 
-.card-container:active {
-  transform: rotateY(189deg);
+.card-container-back,
+.card-container-front {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  backface-visibility: hidden;
+  border-radius: 3px;
 }
 
-.card-title {
-  margin-top: 15px;
+.card-container-front {
+  box-shadow: 2px 2px 5px #999;
 }
-h2 {
-  font-weight: 600;
-  font-size: 20px;
-  letter-spacing: -0.2px;
+
+.card-container-back {
+  padding: 20px;
+  transform: rotateY(0.5turn);
+  background-color: white;
+  box-shadow: 2px 2px 5px #999;
+}
+
+p {
+  font-size: 13px;
+  letter-spacing: -0.3px;
+  margin-top: 5px;
   margin-bottom: 10px;
+  line-height: 1.2em;
 }
 
 .card-awardyear {
-  font-size: 20px;
+  font-size: 15px;
   margin-top: auto;
+  margin-bottom: 15px;
+  font-weight: 800;
+  opacity: 70%;
+}
+
+.back-name-title {
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: -0.3px;
+}
+
+.front-name-title {
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: -0.3px;
+  margin-bottom: 10px;
+}
+
+img {
+  width: auto;
+  height: 50%;
+}
+
+.img-underline {
+  height: 1px;
+  width: 80%;
+  background-color: #cea152;
+  opacity: 30%;
   margin-bottom: 20px;
+  margin-top: 5px;
 }
